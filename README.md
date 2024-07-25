@@ -4,7 +4,6 @@
 - 🌱 Currently, I am immersing myself in coding again, specifically focusing on JavaScript. I am already skilled in HTML5 and CSS. My ultimate aim is to become a front-end developer.
 - 📫 You can contact me through my social media channels, which should be available somewhere around here!
 - 😄 My preferred pronouns are she/her.
-- ⚡ An interesting tidbit: I have always dreamt of working with computers, and now I live that dream!
 
 <!---
 saroj14-png/saroj14-png is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
